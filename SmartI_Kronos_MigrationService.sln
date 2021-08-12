@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartI_Kronos_MigrationService", "SmartI_Kronos_MigrationService\SmartI_Kronos_MigrationService.csproj", "{09036294-2904-4F90-9D32-4C536D815763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09036294-2904-4F90-9D32-4C536D815763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09036294-2904-4F90-9D32-4C536D815763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09036294-2904-4F90-9D32-4C536D815763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09036294-2904-4F90-9D32-4C536D815763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E456DBD-93A8-4759-AB4D-C966959E0EDF}
+	EndGlobalSection
+EndGlobal
